@@ -1,4 +1,4 @@
-## Hi, I'm Lati ⚜️
+## Hi, I'm S1lent ⚜️
 
 🧠 Software Application Developer student
 💻 Design Applications at visual studio code
