@@ -1,7 +1,9 @@
 ## Hi, I'm S1lent ⚜️
 
 🧠 Software Application Developer student
+
 💻 Design Applications at visual studio code
+
 ⚙️ Automate and Optimize applcations or databses
 
 
