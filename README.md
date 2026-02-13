@@ -4,7 +4,7 @@
 
 💻 Design Applications at visual studio code
 
-⚙️ Automate and Optimize applcations or databses
+⚙️ Automate and Optimize applcations or databases
 
 
 
