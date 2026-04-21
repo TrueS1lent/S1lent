@@ -1,6 +1,6 @@
 ## Hi, I'm S1lent ⚜️
 
-🧠 Software Application Developer student and Game Developer 
+🧠 Enginer Software Developer student and Game Developer 
 
 💻 Design Applications at visual studio code
 
